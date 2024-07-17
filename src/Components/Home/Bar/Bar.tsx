@@ -34,13 +34,13 @@ const Bar = () => {
 
                     <div className='bar-div-1'>
                         <div className='bar-1'>
-                            <p>STRATEGY</p>
-                            <h6>Money Momentum</h6>
-                            <p>Tract Premium helps you start saver investments insight covering.</p>
+                            <p>PLANS</p>
+                            <h6>Long-Term</h6>
+                            <p>Create a vision. To get started, imagine your dream life.</p>
                             <hr />
-                            <h6> 3 yrs CAGR</h6>
+                            <h6> 25 yrs CAGR</h6>
                             <div className='bar-flex'>
-                                <p className='bar-p-1'>7.20%</p>
+                                <p className='bar-p-1'>14.20%</p>
 
                                 <button className='bar-btn-1'><FontAwesomeIcon icon={faArrowRight} /></button>
                             </div>
@@ -53,12 +53,12 @@ const Bar = () => {
                     <div className='bar-div-2'>
                         <div className='bar-1'>
                             <p>STRATEGY</p>
-                            <h6>Money Momentum</h6>
-                            <p>Tract Premium helps you start saver investments insight covering.</p>
+                            <h6>Focussed</h6>
+                            <p>Be focused Life Plainning, however, can serve a roadmap or guide.</p>
                             <hr />
-                            <h6> 3 yrs CAGR</h6>
+                            <h6> 1 yrs CAGR</h6>
                             <div className='bar-flex'>
-                                <p className='bar-p-2'>7.20%</p>
+                                <p className='bar-p-2'>11.20%</p>
 
                                 <button className='bar-btn-2'><FontAwesomeIcon icon={faArrowRight} /></button>
                             </div>
@@ -70,13 +70,13 @@ const Bar = () => {
 
                     <div className='bar-div-3'>
                         <div className='bar-1'>
-                            <p>STRATEGY</p>
-                            <h6>Money Momentum</h6>
-                            <p>Tract Premium helps you start saver investments insight covering.</p>
+                            <p>PLANS</p>
+                            <h6>Fixed Income</h6>
+                            <p>Get multiple benefits. and lumpsum option & Guaranteed Returns.</p>
                             <hr />
-                            <h6> 3 yrs CAGR</h6>
+                            <h6> 5 yrs CAGR</h6>
                             <div className='bar-flex'>
-                                <p className='bar-p-3'>7.20%</p>
+                                <p className='bar-p-3'>8.20%</p>
 
                                 <button className='bar-btn-3'><FontAwesomeIcon icon={faArrowRight} /></button>
                             </div>
