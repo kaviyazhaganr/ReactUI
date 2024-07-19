@@ -17,7 +17,7 @@ const Home = () => {
                         </div>
                     </div>
                     <div className='menu-2'>
-                        <button className='btn-1'>Log in</button>
+                        <button className='btn-1'>Log In</button>
                         <button className='btn-2'>Get started</button>
                         <div style={{display:'inline'}}>
                         <FontAwesomeIcon icon={faBars} />

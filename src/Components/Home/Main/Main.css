@@ -15,28 +15,40 @@
     font-size: 25px;
 }
 
-.btn-1{
+.btn-1-1{
 
-    border-radius:15px;
+    border-radius:20px;
     margin-left: 10px;
     padding-inline: 20px;
-    padding-block: 5px;
+    padding-block: 8px;
     background-color: black;
     color: white;
 }
 .input{
 
-    border-radius: 15px;
+    border-radius: 20px;
     padding-right: 60px;
     padding-left: 20px;
-   
+    padding-block: 8px;
     
 }
 ::placeholder {
     color: black;
+    padding-left: 18px;
+    
    
   }
   .input-div{
 
     margin-block: 40px;
+    position: relative;
+  }
+
+
+  .icon-ab{
+
+    position: absolute;
+
+    left: 470px;
+    bottom: 10px;
   }
